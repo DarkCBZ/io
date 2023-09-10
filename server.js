@@ -1,4 +1,4 @@
-//Server Code test
+//Server Code
 let express = require("express");
 let WebSocket = require("ws");
 let app = express();
