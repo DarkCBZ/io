@@ -1,4 +1,5 @@
 {
+  "start": "server.js",
   "dependencies": {
     "express": "^4.18.2",
     "ws": "^8.13.0"
